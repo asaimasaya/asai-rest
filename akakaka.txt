@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 akakaka
 akakakasa
+=======
+akakaka
+akakakasa
+>>>>>>> sub2
