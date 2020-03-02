@@ -1,3 +1,11 @@
 akakaka
 akakakasa
+<<<<<<< HEAD
 
+=======
+=======
+akakaka
+akakakasa
+>>>>>>> sub2
+hoge
+>>>>>>> 39bb9c092b783f0ed866349e8788f28587932e28
