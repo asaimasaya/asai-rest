@@ -5,3 +5,4 @@ akakakasa
 akakaka
 akakakasa
 >>>>>>> sub2
+hoge
